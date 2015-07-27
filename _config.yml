@@ -1,0 +1,46 @@
+# config
+cover: /img/bg_img.jpg
+logo: /img/logo.png
+top_saying:
+- title: KEEP ON GOING <span>NEVER</span> GIVE UP.
+- content: 如果你不肯付出一时的努力去博取成功，那么你可能就要用一生的耐心去忍受失败。
+bottom_saying: 人可以一天不吃饭，但是不能一天不学习。
+# Content
+excerpt_link: Read More
+
+rss: /atom.xml
+
+highlightjs: vs
+
+#Works
+works:
+- works_name: TKL
+  works_url: https://github.com/SuperKieran/TKL
+
+#duoshuo name
+duoshuo: ymmsick
+
+# Miscellaneous
+github: https://github.com/
+twitter: https://twitter.com/
+facebook: https://www.facebook.com/
+google: https://google.com/
+weibo: http://weibo.com/
+
+#about  timeline
+timeline:
+- num: 1
+  word: 2010/09/01-踏入大学行列
+- num: 2
+  word: 2013/06/29-进入社会大学
+- num: 3
+  word: 至今-苦逼奋斗中…
+- num: 4
+  word: More
+
+#Links
+links:
+- name: 以前的博客
+  link: http://www.cnblogs.com/wubingshenyin/
+- name: kieran
+  link: http://go.kieran.top/
