@@ -4,7 +4,7 @@ TKL is a responsive design theme for Hexo.
 ###Install
 Execute the following command and modify theme in <code>_config.yml</code> to <code>TKL</code>.
 ```
-git clone https://github.com/SuperKieran/TKL.git
+git clone git@github.com:Ymmmsick/TKL.git
 ```
 <!--more-->
 ###Update
